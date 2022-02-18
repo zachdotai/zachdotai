@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zachdotai
 - 👀 I’m interested in 👨🏻‍💻 📚 🧬
 - 🌱 I teach machines how to stay cool when they are being turingly tested
-- 🍎 And if I am not doing that, I will probably be building an iOS app
+- 🍎 And if I am not doing that, you will fine me working on an iOS app
 - 💞️ I’m looking to collaborate on cool machine learning and optimization projects
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-aly-msc-657264b4/) or [Twitter](https://twitter.com/zachdotai)
 
